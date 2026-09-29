@@ -1,8 +1,6 @@
 # ElectroPi---QA-Automation-Assessment
 
 
-# ElectroPi QA Automation Assessment
-
 A UI test automation project built with *Java, Selenium WebDriver, TestNG, Maven, and Allure* to automate and validate key user journeys on the [SauceDemo](https://www.saucedemo.com/) web application.
 
 The project follows the *Page Object Model (POM)* design pattern to keep test cases maintainable, readable, and reusable.
