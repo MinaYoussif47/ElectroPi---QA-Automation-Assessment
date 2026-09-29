@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+
+<suite name="SauceDemo Test Suite">
+
+    <test name="SauceDemo Tests">
+
+        <classes>
+
+            <class name="Tests.LoginTest"/>
+            <class name="Tests.HomeTest"/>
+            <class name="Tests.CartTest"/>
+            <class name="Tests.CheckoutInformationTest"/>
+            <class name="Tests.ViewInvoiceAndConfirmOrderTest"/>
+            <class name="Tests.EndToEnd"/>
+
+        </classes>
+
+    </test>
+
+</suite>
+

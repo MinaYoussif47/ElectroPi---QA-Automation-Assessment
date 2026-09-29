@@ -1,0 +1,7 @@
+"DESCRIPTION","DURATION IN MS","NAME","PARENT SUITE","START TIME","STATUS","STOP TIME","SUB SUITE","SUITE","TEST CLASS","TEST METHOD"
+"","783","validViewInvoiceAndConfirmOrderTest","SauceDemo Test Suite","2026-09-28","passed","2026-09-28","Tests.ViewInvoiceAndConfirmOrderTest","SauceDemo Tests","Tests.ViewInvoiceAndConfirmOrderTest","validViewInvoiceAndConfirmOrderTest"
+"","276","validLoginTest","SauceDemo Test Suite","2026-09-28","passed","2026-09-28","Tests.LoginTest","SauceDemo Tests","Tests.LoginTest","validLoginTest"
+"","551","ConfirmItemInCartTest","SauceDemo Test Suite","2026-09-28","passed","2026-09-28","Tests.CartTest","SauceDemo Tests","Tests.CartTest","ConfirmItemInCartTest"
+"","338","AddToCartTest","SauceDemo Test Suite","2026-09-28","passed","2026-09-28","Tests.HomeTest","SauceDemo Tests","Tests.HomeTest","AddToCartTest"
+"","987","validCheckoutInformationTest","SauceDemo Test Suite","2026-09-28","passed","2026-09-28","Tests.CheckoutInformationTest","SauceDemo Tests","Tests.CheckoutInformationTest","validCheckoutInformationTest"
+"","960","validViewInvoiceAndConfirmOrderTest","SauceDemo Test Suite","2026-09-28","passed","2026-09-28","Tests.EndToEnd","SauceDemo Tests","Tests.EndToEnd","validViewInvoiceAndConfirmOrderTest"

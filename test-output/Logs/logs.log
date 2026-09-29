@@ -1,0 +1,45 @@
+[DEBUG] - [29-09-2026 12:49:22] [main] [org.testng.TestNG] - suiteXmlPath: "C:\Users\mina\IdeaProjects\ElectroPi-QAAutomationAssessment\testng.xml"
+[INFO] - [29-09-2026 12:49:23] [main] [org.testng.internal.Utils] - [TestNG] Running:
+  C:\Users\mina\IdeaProjects\ElectroPi-QAAutomationAssessment\testng.xml
+
+[INFO] - [29-09-2026 12:49:29] [main] [Tests.LoginTest] - Entered valid credentials and clicked login button
+[INFO] - [29-09-2026 12:49:31] [main] [Tests.HomeTest] - Entered valid credentials and clicked login button
+[INFO] - [29-09-2026 12:49:31] [main] [Tests.HomeTest] - Clicked add to cart button
+[INFO] - [29-09-2026 12:49:31] [main] [Tests.HomeTest] - Item added to cart successfully
+[INFO] - [29-09-2026 12:49:32] [main] [Tests.CartTest] - Entered valid credentials and clicked login button
+[INFO] - [29-09-2026 12:49:33] [main] [Tests.CartTest] - Clicked add to cart button
+[INFO] - [29-09-2026 12:49:33] [main] [Tests.CartTest] - Item added to cart successfully
+[INFO] - [29-09-2026 12:49:33] [main] [Tests.CartTest] - Clicked on cart button
+[INFO] - [29-09-2026 12:49:33] [main] [Tests.CartTest] - Cart page opened successfully
+[INFO] - [29-09-2026 12:49:33] [main] [Tests.CartTest] - Item is present in the cart
+[INFO] - [29-09-2026 12:49:35] [main] [Tests.CheckoutInformationTest] - Entered valid credentials and clicked login button
+[INFO] - [29-09-2026 12:49:35] [main] [Tests.CheckoutInformationTest] - Clicked add to cart button
+[INFO] - [29-09-2026 12:49:35] [main] [Tests.CheckoutInformationTest] - Item added to cart successfully
+[INFO] - [29-09-2026 12:49:35] [main] [Tests.CheckoutInformationTest] - Clicked on cart button
+[INFO] - [29-09-2026 12:49:35] [main] [Tests.CheckoutInformationTest] - Cart page opened successfully
+[INFO] - [29-09-2026 12:49:35] [main] [Tests.CheckoutInformationTest] - Item is present in the cart
+[INFO] - [29-09-2026 12:49:35] [main] [Tests.CheckoutInformationTest] - Entered checkout information and clicked continue button
+[INFO] - [29-09-2026 12:49:35] [main] [Tests.CheckoutInformationTest] - Checkout information entered successfully and user is navigated to the Checkout: Overview
+[INFO] - [29-09-2026 12:49:37] [main] [Tests.ViewInvoiceAndConfirmOrderTest] - Entered valid credentials and clicked login button
+[INFO] - [29-09-2026 12:49:37] [main] [Tests.ViewInvoiceAndConfirmOrderTest] - Item is Added
+[INFO] - [29-09-2026 12:49:37] [main] [Tests.ViewInvoiceAndConfirmOrderTest] - Item added to cart successfully
+[INFO] - [29-09-2026 12:49:37] [main] [Tests.ViewInvoiceAndConfirmOrderTest] - Clicked on cart button
+[INFO] - [29-09-2026 12:49:37] [main] [Tests.ViewInvoiceAndConfirmOrderTest] - Cart page opened successfully
+[INFO] - [29-09-2026 12:49:37] [main] [Tests.ViewInvoiceAndConfirmOrderTest] - Item is present in the cart
+[INFO] - [29-09-2026 12:49:37] [main] [Tests.ViewInvoiceAndConfirmOrderTest] - Entered checkout information and clicked continue button
+[INFO] - [29-09-2026 12:49:37] [main] [Tests.ViewInvoiceAndConfirmOrderTest] - Checkout information entered successfully and user is navigated to the Checkout: Overview
+[INFO] - [29-09-2026 12:49:37] [main] [Tests.ViewInvoiceAndConfirmOrderTest] - Item displayed in Overview successfully
+[INFO] - [29-09-2026 12:49:37] [main] [Tests.ViewInvoiceAndConfirmOrderTest] - Total price is displayed successfully
+[INFO] - [29-09-2026 12:49:38] [main] [Tests.ViewInvoiceAndConfirmOrderTest] - Clicked Finish Button successfully
+[INFO] - [29-09-2026 12:49:39] [main] [Tests.EndToEnd] - Entered valid credentials and clicked login button
+[INFO] - [29-09-2026 12:49:40] [main] [Tests.EndToEnd] - Item is Added
+[INFO] - [29-09-2026 12:49:40] [main] [Tests.EndToEnd] - Item added to cart successfully
+[INFO] - [29-09-2026 12:49:40] [main] [Tests.EndToEnd] - Clicked on cart button
+[INFO] - [29-09-2026 12:49:40] [main] [Tests.EndToEnd] - Cart page opened successfully
+[INFO] - [29-09-2026 12:49:40] [main] [Tests.EndToEnd] - Item is present in the cart
+[INFO] - [29-09-2026 12:49:40] [main] [Tests.EndToEnd] - Entered checkout information and clicked continue button
+[INFO] - [29-09-2026 12:49:40] [main] [Tests.EndToEnd] - Checkout information entered successfully and user is navigated to the Checkout: Overview
+[INFO] - [29-09-2026 12:49:40] [main] [Tests.EndToEnd] - Item displayed in Overview successfully
+[INFO] - [29-09-2026 12:49:40] [main] [Tests.EndToEnd] - Total price is displayed successfully
+[INFO] - [29-09-2026 12:49:40] [main] [Tests.EndToEnd] - Clicked Finish Button successfully
+[INFO] - [29-09-2026 12:49:40] [main] [Tests.EndToEnd] - Order completed successfully
