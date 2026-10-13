@@ -265,7 +265,6 @@ if (result.getStatus() == ITestResult.FAILURE && attempts == 0) {
 
 This can help identify temporary or intermittent failures during test execution.
 
-> Note: Retry should not be used to hide genuine product defects. A test that fails consistently should be investigated rather than simply relying on retries.
 
 ---
 
