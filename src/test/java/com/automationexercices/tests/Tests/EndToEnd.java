@@ -1,4 +1,4 @@
-package Tests;
+package com.automationexercices.tests.Tests;
 import CustomsListneres.TestNGListenrs;
 import Logs.LogUtils;
 import Pages.CartPage;
